@@ -1,0 +1,35 @@
+Date:    12-08-2021
+Version: 1.0.4
+===================
+1. Updated to latest Bootstrap v5.0.2
+2. Updated: Plugins
+3. Fixed: Minor CSS Issue
+
+Version: 1.1.2
+Date:    24 May 2020
+=========================== 
+1. Fixed: Categories Menu
+2. Fixed: CSS Issue with responsive Device
+
+Version: 1.1.1
+Date:    21 September 2019
+=========================== 
+Update: Bootstrap & Other plugins to there latest version
+Fixed: Owl carousel autoplay issue in IE11
+
+Version: 1.1.0
+Date:    16 September 2019
+=========================== 
+Added: one home page
+
+Version: 1.0.1
+Date:    09 September 2019
+=========================== 
+Update: jQuery to Latest Version
+Optimize: Site Preformance
+
+Version: 1.0.0
+Date:    27 May 19
+=========================== 
+Initial Release
+
